@@ -1,0 +1,4 @@
+This file simply install the Docker CE and docker-compose on ubuntu (x86_64 / amd64)
+
+chmod +x installer.sh
+sudo ./installer.sh
